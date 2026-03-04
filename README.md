@@ -513,12 +513,4 @@ The highest-value open problems in this system:
 
 4. **Euler vector field** — determine whether the F learned from training trajectories admits an Euler vector field, and what the conformal dimension d corresponds to in terms of model depth or reasoning steps.
 
----
 
-## License
-
-See repository for license terms.
-
----
-
-> *The Jordan-Liouville Architecture doesn't monitor stability — it makes instability mathematically illegal.*
